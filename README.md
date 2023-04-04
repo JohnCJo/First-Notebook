@@ -1,2 +1,2 @@
 # First-Notebook
-Code that demonstrates Numpy and Pandas Library
+Code that demonstrates Numpy and Pandas Library functions
